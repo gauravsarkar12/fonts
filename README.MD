@@ -2,7 +2,7 @@ To use Font Awesome Icons visit <a href="https://fontawesome.com/v5/cheatsheet/"
 <br> <br>
 Steps to use it:
 <ul>
-  <li>Open <a href="https://github.com/gauravsarkar12/fonts/tree/main/icons">icon</a> folder in <a href="https://github.com/gauravsarkar12/fonts">fonts</a> repository.</li>
+  <li>Open <a href="https://github.com/gauravsarkar12/fonts/tree/main/icons">icons</a> folder in <a href="https://github.com/gauravsarkar12/fonts">fonts</a> repository.</li>
   <li>Unzip the zip file.</li>
   <li>Then install all three fonts files [.ott] "Font Awesome 6 free Solid / Regular / Band".</li>
   <li>Open <a href="https://fontawesome.com/v5/cheatsheet/" target="_blank" >Cheatsheet | Font Awesome</a> in new tab.</li>
